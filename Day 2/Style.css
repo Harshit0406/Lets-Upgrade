@@ -1,0 +1,18 @@
+.External{
+    color: blanchedalmond;
+    font: size 20%;
+    text-align: right;
+}
+.div1{
+    height: 100%;
+    width: 100%;
+    background-color:gray;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.one{
+    background-color: rgb(248, 238, 215);
+}
