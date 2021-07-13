@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:khaki;
+
+}
+.h1{
+    font-size: 700%;
+    font-family:Impact;    
+    text-align: center;
+    color: cadetblue; 
+    background-color:cornsilk;
+}
+.Parent1{
+    width: 100%;
+    background-color:gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.child1{
+    height: 150px;
+    width: 15%;
+    background-color: red;
+}
+
+.Parent2{
+    width: 100%;
+    background-color:black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+} 
+.child2{
+    height: 150px;
+    width: 20%;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 4%;
+}
